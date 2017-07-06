@@ -103,7 +103,7 @@ console.log(greet("Enoc"));
 // words: "quick", "fox", "fence"
 // sentence: "quick brown fox jumps over the fence"
 // Then, write and example of using the function.
-var names = ["Enoc ", "Ana ", "Micol "];
+var names = ["Joe ", "Carol ", "Ali"];
 var verbs = ["dreams ", "yells ", "flies "];
 var phrases = ["so crazy  ", "was eaten by a molusc ", "jumping across the street "];
 var nouns = ["tiger", "computer", "coconut"];
